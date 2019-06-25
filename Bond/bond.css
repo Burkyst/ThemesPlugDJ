@@ -1,0 +1,76 @@
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/zoom.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/patentes.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/users.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/chat-color.css');
+@import url('https://rawgit.com/Burkyst/-Bond-o-/master/extras/backgrounds.css');
+@import url('https://rawgit.com/Burkyst/-Bond-o-/master/extras/colors.css');
+@import url('https://rawgit.com/Burkyst/-Bond-o-/master/extras/gifs-images.css');
+@import url('https://fonts.googleapis.com/css?family=Raleway:500');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/CoresStatusPerfil.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/chat.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/new-description.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/adicionais.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/user-meta.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/Adicionais2.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/foto-sala.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/header-panel-invisivel.css');
+@import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/adicional3.css');
+@import url('https://rawgit.com/Burkyst/-Bond-o-/master/extras/button.css');
+@import url('https://gitcdn.link/repo/Burkyst/-Bond-o-/master/extras/BgAtualizado.css');
+
+.community__bottom .bottom__playback-meta 
+.community__song-playing-progress 
+.progress-bar{background-color:#daa520}
+.community__bottom .bottom__playback-controls 
+.volume-bar .progress .progress-bar{background-color:#daa520}@-webkit-keyframes bounceIn{
+
+.community .community__top,  .community__left-nav, .community__bottom {
+    background-color: rgba(0, 0, 0, 0.50) !important;}
+#dashboard, #user-view {
+    background-color: rgba(0, 0, 0, 0.80) !important;} 
+  
+#app .community .community__right-bar #header-panel-bar,#app .community .community__top{background:linear-gradient(to bottom,#000000 0,rgba(0,0,0,0.4) 0,#000 200%)}#app .community .community__top .community__meta .community__name{color:#daa520}#app-menu.in-room{background:linear-gradient(to bottom,#000000 0,rgba(0,0,0,0.4) 0,#000 200%)no-repeat;background-size:200% 54px}#app .community .community__bottom,#app .community .community__bottom .bottom__playback-controls,#app .community .community__bottom .bottom__playback-meta{background:linear-gradient(to bottom,#000000 0,rgba(0,0,0,0.4) 0,#000 200%)}#app .community .community__bottom .community__playlist--desktop{background:linear-gradient(to bottom,rgba(0,0,0, 0.4) 0,#000 200%)}#app .community .community__bottom .community__playlist--desktop>i{color:#daa520}
+ 
+/*-extra-*/
+#footer .bar-button .section .chevron:before,
+#footer .bar-button .section .chevron:after{
+    background: rgba(0, 0, 0, 0.3);
+}
+.chevron{
+     -webkit-transition:     all 0.3s ease;
+     -moz-transition:        all 0.3s ease;
+     -o-transition:          all 0.3s ease;
+     transition:             all 0.3s ease;
+     right: 7px;
+}
+#playlist-meta:hover .chevron{
+     padding: 7px !important;
+     top: 21px !important;
+}
+.community__player-item.history{
+position: fixed;
+background: #000 !important;
+top: 0px;
+right: 400px;
+height: 50px;
+width: 54px !important;
+padding: 0;
+}
+#dialog-container.is-preview {
+    right: 345px !important;
+    width: unset !important;
+    background: rgba(17, 19, 23, 0.94) !important;
+}    
+    
+/* Voter List Fix */
+.votes-rs {
+    background: rgba(0, 0, 0, .90) !important;
+}
+ 
+#audience {
+    z-index: 0;
+}
+    
+/* ♛ ᙘⵔNᗪ o/ ♛™ Customização
+Editado por Burkyst
+ Version: 2.1 */
