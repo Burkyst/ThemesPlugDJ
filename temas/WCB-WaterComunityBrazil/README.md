@@ -5,4 +5,5 @@
 > Code edited by [Burkyst](https://plug.dj/@/burkyst)
 
 ```Copyright © 2018 Water Community Brazil™ Customização Version: 1```
+
 *OBS: CSS antigo, antes da nova atualização do plug.dj*
